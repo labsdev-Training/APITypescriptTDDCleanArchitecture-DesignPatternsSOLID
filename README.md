@@ -30,9 +30,10 @@ API completa com Login, Cadastro, Criação de Enquetes, Lista de Enquetes, Resp
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
+
 ```sh
-make install
-npm test
+[install node](https://nodejs.org/pt-br/download/)
+npm init -y
 ```
 
  API em NodeJs utilizando Typescript, MongoDb (TDDCleanArchitecture-DesignPatternsSOLID)
