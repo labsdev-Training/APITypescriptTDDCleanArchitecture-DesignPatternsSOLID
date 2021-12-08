@@ -30,11 +30,12 @@ API completa com Login, Cadastro, Criação de Enquetes, Lista de Enquetes, Resp
 
 Padrão de Commit: https://www.conventionalcommits.org/en/v1.0.0/
 
-
+Biblioteca que irá garantir que será respeitado o padrão cde commit: https://www.npmjs.com/package/git-commit-msg-linter (cria um hook por tras dos panos no git, sempre que for feito um commit será validada a mensagem, para verificar se está dentro do padrão)
 
 ```sh
 [install node](https://nodejs.org/pt-br/download/)
 npm init -y
+npm i git-commit-msg-linter
 ```
 
  API em NodeJs utilizando Typescript, MongoDb (TDDCleanArchitecture-DesignPatternsSOLID)
