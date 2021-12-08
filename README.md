@@ -28,7 +28,8 @@ API completa com Login, Cadastro, Criação de Enquetes, Lista de Enquetes, Resp
 
  ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+Padrão de Commit: https://www.conventionalcommits.org/en/v1.0.0/
+
 
 
 ```sh
