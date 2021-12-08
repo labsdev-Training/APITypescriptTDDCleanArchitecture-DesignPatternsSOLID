@@ -1,4 +1,5 @@
 # APITypescriptTDDCleanArchitecture-DesignPatternsSOLID
+<<<<<<< HEAD
 
  API em NodeJs utilizando Typescript, MongoDb. 
 
