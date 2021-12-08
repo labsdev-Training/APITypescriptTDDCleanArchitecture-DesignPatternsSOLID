@@ -1,5 +1,6 @@
 # APITypescriptTDDCleanArchitecture-DesignPatternsSOLID
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  API em NodeJs utilizando Typescript, MongoDb. 
 
@@ -35,3 +36,6 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
+=======
+ API em NodeJs utilizando Typescript, MongoDb (TDDCleanArchitecture-DesignPatternsSOLID)
+>>>>>>> d1e05cfdad9a7468f2a964a3c6e8efec9c590af2
